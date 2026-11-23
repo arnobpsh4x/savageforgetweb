@@ -1,22 +1,623 @@
 {
-  "active_keys": [
-    {
-      "key": "482CF70AD343F26A8CFD169ECB6DCF1A5D3A5FA65CD5F9F818FD8A711991EB2D",
-      "name": "admin",
-      "plan": "Lifetime",
-      "approved_date": "2026-11-23",
-      "expiry_date": "Lifetime"
+    "active_keys": [
+        {
+            "key": "482CF70AD343F26A8CFD169ECB6DCF1A5D3A5FA65CD5F9F818FD8A711991EB2D",
+            "name": "ADMIN",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "C9BB5E864D70A981C3DC35CF9F1155B06D96216862298A83D0ECF40611C1F462",
+            "name": "shanto",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "1F392E8D400068CE87349274C4C470F242E163FC081D3283A8202F638C87189E",
+            "name": "@STUSAIFUL2 SAIFUL",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "1FFBE22F09EF73672B3D1DC940E9D2B360901A86941FBDD1F5BA3417A2E70B3E",
+            "name": "@charly32476",
+            "plan": "Custom",
+            "approved_date": "2026-10-22",
+            "expiry_date": "2028-10-22"
+        },
+        {
+            "key": "B5D0AC713C38689266791A8BA0FD431E14AFC49E4F07F0C923148DFB98F15A0B",
+            "name": "shahin alam",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "29018935B596B5672F13D30B0E9477B8ED05E623E4E6A58238AD615D935F038D",
+            "name": "kamrul",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "A723655C8C61370C03C701D7AE80214A05214F1DC7EA823347962B1D6DD50BEC",
+            "name": "jihad",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "1DC2B0ED6953003B85B5DA07022AC089A133C8279FD63813D1E09097738C0D91",
+            "name": "himel",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "50955C8C1EDBC30024D6151F489219B838854F56906FB02359A97BACC6C0ABCD",
+            "name": "imran",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "34D05D32DB967595FA97BBD14090B23129DBD2922E6F98545D68456D1B6487BE",
+            "name": "mritunjoy",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "FD7F09D592249ED36B92408309CD2DFA0D711A8B45E752D2006504791855E57C",
+            "name": "sagor howlader",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "BEC177E52D3CEF11F3A739EB77244289647BBC99C7C05A99CCE53A2FB7CB5B23",
+            "name": "Unknown",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "65C1CB96923D785341150EF26442CFED642DF3E163B3DAA45D97D1BFD3434E80",
+            "name": "mahfuz rabbi",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "E249873646B997D1B90AEABA1CE487F6E736E48869DF48EB7CB297DA7C5CFEFD",
+            "name": "maruf khan",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "EF525E8F6E89B62D1C26AE905904D46FFD7970DDED5BD368467FB9D06267AD08",
+            "name": "maruf khan",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "67F5429F1291559CAF1D7E1FD3F0750F860DA4E3AF366A08E625A7FE801D29B0",
+            "name": "maruf khan",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "1A31662E786B32D1659E16359658C2BBF7D1CBB7C495992A7C4DED9AB1AF88B3",
+            "name": "Admin (Heron)",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "3F841546E27650E55D75D4F2741B7E59251A91E5E8882E8486E6C22656C48740",
+            "name": "Admin (Heron)",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "1035210352U0382617LUJNOM1SMPPu0_a352",
+            "name": "Admin (Heron)",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "75BAC2F1BA94146C7251AD371E355D26C01AACE5CC9108BA612A6BCAB858ED5E",
+            "name": "Pakistani client",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "4C70B4D767D43931EB0BBDB866897A68DC11AC1B2820A5D0211C8FFD8B8CA157",
+            "name": "Pakistani client",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "0F375DAEEF2C86EB37213FC1525AC2058D2BF26030A68E76CFB6B74CF06AEB94",
+            "name": "abir developer",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-13",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "102641026441933111TCOIRF1SMPPu0_a264",
+            "name": "tarek",
+            "plan": "1 Month",
+            "approved_date": "2026-10-29",
+            "expiry_date": "2026-11-29"
+        },
+        {
+            "key": "103131031365648003NUJEUT1SMPPu0_a313",
+            "name": "jakaria",
+            "plan": "1 Month",
+            "approved_date": "2026-11-01",
+            "expiry_date": "2026-12-01"
+        },
+        {
+            "key": "102651026523318122LUJDEW1SMPPu0_a265",
+            "name": "sifatdep",
+            "plan": "1 Month",
+            "approved_date": "2026-11-01",
+            "expiry_date": "2026-12-01"
+        },
+        {
+            "key": "102851028591428171PESDEW1SMPPu0_a285",
+            "name": "naruto",
+            "plan": "1 Month",
+            "approved_date": "2026-11-07",
+            "expiry_date": "2026-12-07"
+        },
+        {
+            "key": "10346103468124307LUJEUT1SMPPu0_a346",
+            "name": "Trial User",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-26",
+            "expiry_date": "2026-11-29"
+        },
+        {
+            "key": "13F77EB0DA174630EE77929D898CC151F49499685307E9694E67D304C62DCC97",
+            "name": "@erfanuirrahmans",
+            "plan": "1 Month",
+            "approved_date": "2026-11-12",
+            "expiry_date": "2026-12-12"
+        },
+        {
+            "key": "F24441005ED3D807D9713C2A01B0D2F0FC59B59D591506D752992CE4BF7B9318",
+            "name": "ershakib",
+            "plan": "1 Month",
+            "approved_date": "2026-11-11",
+            "expiry_date": "2026-12-11"
+        },
+        {
+            "key": "A16CEF73E35029BA855FADED3981C7A279246AE1459954BC16850E885C541464",
+            "name": "sakahwat",
+            "plan": "1 Month",
+            "approved_date": "2026-11-11",
+            "expiry_date": "2026-12-11"
+        },
+        {
+            "key": "3DD137EA1B4CE0D9EFA150A91B5C4457CC5C3FA3B93A306EB877CE147B87F63F",
+            "name": "robiyul",
+            "plan": "1 Month",
+            "approved_date": "2026-11-10",
+            "expiry_date": "2026-12-10"
+        },
+        {
+            "key": "4BFA43F5DB51E42FD61ABEE52050FBD71E69B7999B56C8530AA483EF90A3A95F",
+            "name": "emran",
+            "plan": "1 Month",
+            "approved_date": "2026-11-09",
+            "expiry_date": "2026-12-09"
+        },
+        {
+            "key": "EEA6DF82807D17E3BB7E70E10E773A5948D11B39781A33B50F7C2FFFE8905BF9",
+            "name": "shakil",
+            "plan": "1 Month",
+            "approved_date": "2026-11-08",
+            "expiry_date": "2026-12-08"
+        },
+        {
+            "key": "C0EBE8CF6BEAAC78F125371DC4DC2C76836C993565827DB8B22E4D0D1772DE8C",
+            "name": "shoyeb",
+            "plan": "1 Month",
+            "approved_date": "2026-11-07",
+            "expiry_date": "2026-12-07"
+        },
+        {
+            "key": "CA22E6B44205A2CEEC8FE6C4F9442BDD184B1D05050F1F38A9F95974BCEEDA11",
+            "name": "marufnoob",
+            "plan": "1 Month",
+            "approved_date": "2026-11-07",
+            "expiry_date": "2026-12-07"
+        },
+        {
+            "key": "70E52E30819DF14057A706C0834914D9E356AED344951FF3CEF499FB429DB633",
+            "name": "maruf noob",
+            "plan": "1 Month",
+            "approved_date": "2026-11-05",
+            "expiry_date": "2026-12-05"
+        },
+        {
+            "key": "BD0A4FEF365574462EE0C13BFB231EE6FC8170F162AEBD15DEA768280ABB9E5C",
+            "name": "maruf noob",
+            "plan": "1 Month",
+            "approved_date": "2026-11-02",
+            "expiry_date": "2026-12-02"
+        },
+        {
+            "key": "6D65F16866B63F0D31CC5B027F3992EF9369D92B8E7C09207FD4562C486A1137",
+            "name": "maruf noob",
+            "plan": "1 Month",
+            "approved_date": "2026-11-02",
+            "expiry_date": "2026-12-02"
+        },
+        {
+            "key": "A38333C4860CCDBD7495C251FF967E9CCF863A5C5D55C4057ACC6403381CE8D9",
+            "name": "maruf noob",
+            "plan": "1 Month",
+            "approved_date": "2026-11-02",
+            "expiry_date": "2026-12-02"
+        },
+        {
+            "key": "7D5984744DDD164B24746A62902C5D2F81C52F4593E7ADC5769DA2073B396CCC",
+            "name": "mehedi",
+            "plan": "1 Month",
+            "approved_date": "2026-11-01",
+            "expiry_date": "2026-12-01"
+        },
+        {
+            "key": "4857A884ABEB2F002857C5A2D4AB967288D79A0C1B26ABDD444AC56766EBDBD7",
+            "name": "bandhon",
+            "plan": "1 Month",
+            "approved_date": "2026-11-01",
+            "expiry_date": "2026-12-01"
+        },
+        {
+            "key": "8AC9A26CA136E499DA7FDCB4018DF4170FB66CD3B6F36DF5A242F9011633FA3C",
+            "name": "mehedi",
+            "plan": "1 Month",
+            "approved_date": "2026-11-01",
+            "expiry_date": "2026-12-01"
+        },
+        {
+            "key": "C7B85A2FF638DC010479D2D761A10F4FFD23EBCAACB0134CDD020268DBCE1587",
+            "name": "sadib",
+            "plan": "1 Month",
+            "approved_date": "2026-10-29",
+            "expiry_date": "2026-11-29"
+        },
+        {
+            "key": "1DE63E07D9AB5F41502FD44D29A4107FD4632CEF81637E0CD87AF8200BF13F94",
+            "name": "roky",
+            "plan": "1 Month",
+            "approved_date": "2026-10-28",
+            "expiry_date": "2026-11-28"
+        },
+        {
+            "key": "B612253FF029C74A4071400C603468F6DF842EC958D4B1DCD2752CD91BFD3C28",
+            "name": "ik",
+            "plan": "1 Month",
+            "approved_date": "2026-10-28",
+            "expiry_date": "2026-11-28"
+        },
+        {
+            "key": "63A3FB3BCAD04BE85E248BCECECE956478D4FB5A48701D969CB51AD61515C2A3",
+            "name": "nayan",
+            "plan": "1 Month",
+            "approved_date": "2026-10-28",
+            "expiry_date": "2026-11-28"
+        },
+        {
+            "key": "DDC2580E3EDA517B6454B48518CA59953AAF62037FD39C5EFA5BC22B45F93354",
+            "name": "mehedi",
+            "plan": "1 Month",
+            "approved_date": "2026-10-28",
+            "expiry_date": "2026-11-28"
+        },
+        {
+            "key": "8BF1560F7B73D1E8AC543FBD670838DC61D1A87C4F2735ED577A945ECC283DE0",
+            "name": "mithun",
+            "plan": "1 Month",
+            "approved_date": "2026-10-27",
+            "expiry_date": "2026-11-27"
+        },
+        {
+            "key": "139887900765613A10EA7D618B7BC4D459E2028AE2DF8537C222AAC7DAFADEF5",
+            "name": "sagor",
+            "plan": "1 Month",
+            "approved_date": "2026-10-27",
+            "expiry_date": "2026-11-27"
+        },
+        {
+            "key": "D48DB8752DA7C10DC9494992FD7DDBC386A6E1CF94120254874FBDEA672A6D05",
+            "name": "tusar",
+            "plan": "1 Month",
+            "approved_date": "2026-10-27",
+            "expiry_date": "2026-11-27"
+        },
+        {
+            "key": "387FBBB6DF0B86D01A686159461DD614ECF34FDF4DD35CF1519F45985C43870F",
+            "name": "rohan",
+            "plan": "1 Month",
+            "approved_date": "2026-10-27",
+            "expiry_date": "2026-11-27"
+        },
+        {
+            "key": "991E2DA658E2019C76FFE0726EB91C4BA929AFC574A5FC5299037E7239B098CC",
+            "name": "munjurul",
+            "plan": "1 Month",
+            "approved_date": "2026-10-26",
+            "expiry_date": "2026-11-26"
+        },
+        {
+            "key": "00ECD493CAE8A324C103FB800BF81D8473CB399BEFA84F746468F84DCA8F6442",
+            "name": "mehedi",
+            "plan": "1 Month",
+            "approved_date": "2026-10-25",
+            "expiry_date": "2026-11-25"
+        },
+        {
+            "key": "DA2308D0B974AC10F48B450AAEB00083CE8350CDA1BFDF4C9554D3FEEDD3E41B",
+            "name": "alomgir",
+            "plan": "1 Month",
+            "approved_date": "2026-10-25",
+            "expiry_date": "2026-11-25"
+        },
+        {
+            "key": "3B30CBB6900E5DCB5276F95B2E23E876979B901FBD96C1F03269EDDFD53675FB",
+            "name": "rajon",
+            "plan": "1 Month",
+            "approved_date": "2026-10-25",
+            "expiry_date": "2026-11-25"
+        },
+        {
+            "key": "5A34979C510258E0AA513F8031F12E15EFC2F6828A482FA3E5618687E855E910",
+            "name": "ovhi",
+            "plan": "1 Month",
+            "approved_date": "2026-10-25",
+            "expiry_date": "2026-11-25"
+        },
+        {
+            "key": "06C0A38204B41DEF47BD875CEF6C6F0A5A9A0B62A684FAC5BA5421720D1C258E",
+            "name": "rohan",
+            "plan": "1 Month",
+            "approved_date": "2026-10-24",
+            "expiry_date": "2026-11-24"
+        },
+        {
+            "key": "51C2A6C3EA0FB92DEED79CBFE380347E75EED418B100E3107F21C24B49C37D51",
+            "name": "unknown",
+            "plan": "1 Month",
+            "approved_date": "2026-10-24",
+            "expiry_date": "2026-11-24"
+        },
+        {
+            "key": "748BE82AA6BF497B5533738F696BE4AE4DE8C295628C00B7830A7E3FCA753D18",
+            "name": "mahfuzer",
+            "plan": "1 Month",
+            "approved_date": "2026-10-24",
+            "expiry_date": "2026-11-24"
+        },
+        {
+            "key": "E30ED570EE7A9E3DDF995454ECE205F5C0CDE28B48A5B218A8BAE11C9E19404D",
+            "name": "Erfanuir Rahman Shakib",
+            "plan": "1 Month",
+            "approved_date": "2026-11-14",
+            "expiry_date": "2026-12-14"
+        },
+        {
+            "key": "D12848CF03210028AA583347A1F69730E0B5486250096114B6A8EFFE90554A5F",
+            "name": "heron",
+            "plan": "1 Month",
+            "approved_date": "2026-11-14",
+            "expiry_date": "2026-12-14"
+        },
+        {
+            "key": "6A3ABD1C3C02D379AB8E8431931CB84D54FF2E5289C126C6A49B875EFD953510",
+            "name": "Erfanuir Rahman Shakib2",
+            "plan": "1 Month",
+            "approved_date": "2026-11-15",
+            "expiry_date": "2026-12-15"
+        },
+        {
+            "key": "04F356AF2BD010937F204A178734FF1830E86F3CE88FB9BB8A03B15ACF8FFF60",
+            "name": "Erfanuir Rahman Shakib3",
+            "plan": "1 Month",
+            "approved_date": "2026-11-15",
+            "expiry_date": "2026-12-15"
+        },
+        {
+            "key": "20637A52D955BF22764C7974AA7D8AB9B621B4592E757AAC831FFF47A22CBEA0",
+            "name": "Jakir",
+            "plan": "1 Month",
+            "approved_date": "2026-11-16",
+            "expiry_date": "2026-12-16"
+        },
+        {
+            "key": "414BE31E713C2D34B5FED8055F32EC6C7B9D2B71B307346BE2462FFABDC68F9D",
+            "name": "Admin Hasibul",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-17",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "5660C7E8AA7C5A3D9E02433965D73EB5D2F42B905AC1EA22F4AD059C004AD9B1",
+            "name": "abir developar",
+            "plan": "Custom (40 Days)",
+            "approved_date": "2026-11-17",
+            "expiry_date": "2026-12-27"
+        },
+        {
+            "key": "7944AA7FD946B0BF4E948103691FE9240410FF6D8C6C12C83B2F99EF0B0ABF09",
+            "name": "Zarif",
+            "plan": "1 Month",
+            "approved_date": "2026-11-18",
+            "expiry_date": "2026-12-18"
+        },
+        {
+            "key": "7395AF34727B8A6D583A87B5768FF54FB2BD4FC57FBA06B2FF89CFCFC1783723",
+            "name": "Erfanuir Rahman Shakib4",
+            "plan": "1 Month",
+            "approved_date": "2026-11-19",
+            "expiry_date": "2026-12-19"
+        },
+        {
+            "key": "4EBFF0FD2E32E5AE8E2ED33899095D2399DF471992510AC1EC3F7B3FCD95A043",
+            "name": "Heron phone",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-19",
+            "expiry_date": "Lifetime"
+        },
+        {
+            "key": "B58AF238018F501FA21F17AFD690C08BAA534AA2822F0DFE3C56D2BD5848FE9F",
+            "name": "@sadibsheikh",
+            "plan": "Custom (9 Days)",
+            "approved_date": "2026-11-20",
+            "expiry_date": "2026-11-29"
+        },
+        {
+            "key": "C3C5BCEB967CC59FCC4A53DA79468543091986672F36A9599803982F1D66CA16",
+            "name": "ARIF deu",
+            "plan": "1 Month",
+            "approved_date": "2026-11-20",
+            "expiry_date": "2026-12-20"
+        },
+        {
+            "key": "1035510355C7561006NUJUHT1SMPPu0_a355",
+            "name": "Ashok lama (phone)",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-20",
+            "expiry_date": "2026-11-23"
+        },
+        {
+            "key": "103031030374702122TCODEW1SMPPu0_a303",
+            "name": "imran crack",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-20",
+            "expiry_date": "2026-11-23"
+        },
+        {
+            "key": "1030510305C7561006NUJUHT1SMPPu0_a305",
+            "name": "Sayod",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-20",
+            "expiry_date": "2026-11-23"
+        },
+        {
+            "key": "78FFBF6C2DD2E1236FCA13B3221C126EC27FAD39621E9A8D1B766EB3A0698546",
+            "name": "Monir",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-20",
+            "expiry_date": "2026-11-23"
+        },
+        {
+            "key": "956BFDCEAA6F10C6240984BCBA3486F49276F269662351DD8F92CB57809E458F",
+            "name": "Abu Sayham 700 Due",
+            "plan": "1 Month",
+            "approved_date": "2026-11-21",
+            "expiry_date": "2026-12-21"
+        },
+        {
+            "key": "FD64295C475612A96DA35E92108B198DF8996C9FA76AED380E16D9223797AB61",
+            "name": "Zarif laptop",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-21",
+            "expiry_date": "2026-11-24"
+        },
+        {
+            "key": "C6246D7BCF443BF505030B54884F851F7D8AD52043955CD220217E086D06234C",
+            "name": "Raju",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-11-25"
+        },
+        {
+            "key": "D27360C8A2AA5A4DC85D2AD6DA8F59518A0587D61A8A2B115622564FED9F6681",
+            "name": "Nisad due",
+            "plan": "1 Month",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-12-22"
+        },
+        {
+            "key": "CC493256C4C581B71569EEFB637B7F48EBC6B23EAAD7CF4250B14856ABEAEDFB",
+            "name": "@KHADIMUL102",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-11-25"
+        },
+        {
+            "key": "8B8BBB89DB454ED2594E68F649050B2346CADFABF4E2B336095084DA950D0D64",
+            "name": "Rifat raisul",
+            "plan": "1 Month",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-12-22"
+        },
+        {
+            "key": "7ECCDA63C13FD6E7674735928CE9FFA0E338FCEDC5DF01F9E363A5A63D0B17B8",
+            "name": "Ariyan",
+            "plan": "1 Month",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-12-22"
+        },
+        {
+            "key": "E1CDC22625F7F35DC128BFD1D077D55E7819250D1AD4E2E3FA40DC15257BBC15",
+            "name": "Farabi",
+            "plan": "1 Month",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-12-22"
+        },
+        {
+            "key": "D4BE42F038F3804FF7739FE4216456861D3DF4F67AB9450A8315BC38557637ED",
+            "name": "Meheraz",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-11-25"
+        },
+        {
+            "key": "3E8C09A98B43AFEF5CB15994CC37AD9C8B2890E3C006A4515883C5F0EC84C6FA",
+            "name": "Arman sarker",
+            "plan": "1 Month",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-12-22"
+        },
+        {
+            "key": "1529BF9FA4BB36868D1F4F6882F3F2C9A3D2160357C660DAC950698307946297",
+            "name": "Srk",
+            "plan": "Custom (1 Days)",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-11-23"
+        },
+        {
+            "key": "649CD43CCB0E1E5DEDC9FBB768B87FB57B007E6C1E6D1B9BDED4EDED99F38DE1",
+            "name": "Maisha",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-11-25"
+        }
+    ],
+    "expired_history": {
+        "2026-11-13": 2,
+        "2026-11-14": 3,
+        "2026-11-15": 2,
+        "2026-11-18": 1,
+        "2026-11-19": 11,
+        "2026-11-20": 6,
+        "2026-11-21": 2,
+        "2026-11-22": 8
     }
-  ]
-}
-{
-  "active_keys": [
-    {
-      "key": "CUSTOMER_DEVICE_KEY_HERE",
-      "name": "buyer1",
-      "plan": "3 Days",
-      "approved_date": "2026-11-23",
-      "expiry_date": "2026-11-26 12:00:00"
-    }
-  ]
 }
