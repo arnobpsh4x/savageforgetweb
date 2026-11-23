@@ -1,7 +1,7 @@
 {
   "active_keys": [
     {
-      "key": "",
+      "key": "482CF70AD343F26A8CFD169ECB6DCF1A5D3A5FA65CD5F9F818FD8A711991EB2D",
       "name": "admin",
       "plan": "Lifetime",
       "approved_date": "2026-11-23",
