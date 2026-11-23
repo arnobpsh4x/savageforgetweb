@@ -554,11 +554,11 @@
             "expiry_date": "2026-12-22"
         },
         {
-            "key": "CC493256C4C581B71569EEFB637B7F48EBC6B23EAAD7CF4250B14856ABEAEDFB",
+            "key": "8F52CE4FABCBF71C91195D94B893D75E4BCAEF3F29838463C99C8E38BC74CDBD",
             "name": "@KHADIMUL102",
-            "plan": "Trial (3 Days)",
+            "plan": "Lifetime",
             "approved_date": "2026-11-22",
-            "expiry_date": "2026-11-25"
+            "expiry_date": "Lifetime"
         },
         {
             "key": "8B8BBB89DB454ED2594E68F649050B2346CADFABF4E2B336095084DA950D0D64",
