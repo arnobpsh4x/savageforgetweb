@@ -1,0 +1,11 @@
+{
+  "active_keys": [
+    {
+      "key": "YOUR_DEVICE_KEY",
+      "name": "admin",
+      "plan": "Lifetime",
+      "approved_date": "2026-11-23",
+      "expiry_date": "Lifetime"
+    }
+  ]
+}
