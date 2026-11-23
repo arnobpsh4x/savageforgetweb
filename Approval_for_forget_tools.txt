@@ -9,3 +9,14 @@
     }
   ]
 }
+{
+  "active_keys": [
+    {
+      "key": "CUSTOMER_DEVICE_KEY_HERE",
+      "name": "buyer1",
+      "plan": "3 Days",
+      "approved_date": "2026-11-23",
+      "expiry_date": "2026-11-26 12:00:00"
+    }
+  ]
+}
